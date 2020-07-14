@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\obj\Debug\netcoreapp3.0\
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\obj\Release\netcoreapp3.0\
 RoR2ProfileManager
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_0
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_0
 C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\App.xaml
 11151548125
 
-51341155710
+4959639751
 192-1037106189
 MainWindow.xaml;
 

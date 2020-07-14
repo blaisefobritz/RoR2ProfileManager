@@ -1,0 +1,16 @@
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\bin\Release\netcoreapp3.0\RoR2ProfileManager.exe
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\bin\Release\netcoreapp3.0\RoR2ProfileManager.deps.json
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\bin\Release\netcoreapp3.0\RoR2ProfileManager.runtimeconfig.json
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\bin\Release\netcoreapp3.0\RoR2ProfileManager.runtimeconfig.dev.json
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\bin\Release\netcoreapp3.0\RoR2ProfileManager.dll
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\bin\Release\netcoreapp3.0\RoR2ProfileManager.pdb
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\obj\Release\netcoreapp3.0\MainWindow.g.cs
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\obj\Release\netcoreapp3.0\App.g.cs
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\obj\Release\netcoreapp3.0\RoR2ProfileManager_MarkupCompile.cache
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\obj\Release\netcoreapp3.0\RoR2ProfileManager_MarkupCompile.lref
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\obj\Release\netcoreapp3.0\MainWindow.baml
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\obj\Release\netcoreapp3.0\RoR2ProfileManager.g.resources
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\obj\Release\netcoreapp3.0\RoR2ProfileManager.AssemblyInfoInputs.cache
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\obj\Release\netcoreapp3.0\RoR2ProfileManager.AssemblyInfo.cs
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\obj\Release\netcoreapp3.0\RoR2ProfileManager.dll
+C:\Users\Blaise\Documents\GitHub\RoR2ProfileManager\obj\Release\netcoreapp3.0\RoR2ProfileManager.pdb

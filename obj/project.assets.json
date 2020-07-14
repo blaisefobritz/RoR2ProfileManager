@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Blaise\\source\\repos\\RoR2ProfileManager\\RoR2ProfileManager\\RoR2ProfileManager.csproj",
+      "projectUniqueName": "C:\\Users\\Blaise\\Documents\\GitHub\\RoR2ProfileManager\\RoR2ProfileManager.csproj",
       "projectName": "RoR2ProfileManager",
-      "projectPath": "C:\\Users\\Blaise\\source\\repos\\RoR2ProfileManager\\RoR2ProfileManager\\RoR2ProfileManager.csproj",
+      "projectPath": "C:\\Users\\Blaise\\Documents\\GitHub\\RoR2ProfileManager\\RoR2ProfileManager.csproj",
       "packagesPath": "C:\\Users\\Blaise\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Blaise\\source\\repos\\RoR2ProfileManager\\RoR2ProfileManager\\obj\\",
+      "outputPath": "C:\\Users\\Blaise\\Documents\\GitHub\\RoR2ProfileManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Blaise\\AppData\\Roaming\\NuGet\\NuGet.Config",
